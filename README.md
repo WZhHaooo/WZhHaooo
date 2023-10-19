@@ -2,7 +2,10 @@
 - 👀 I’m interested in reading & technology
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Mail: wangzhenghao23@outlook.com
+- 😍 Instagram: wzhhaooo
+- 📖 Facebook: WZhHaooo
+
 
 <!---
 WZhHaooo/WZhHaooo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
