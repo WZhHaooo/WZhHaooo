@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @WZhHaooo
-- 👀 I’m interested in reading & technology
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in reading & technology. 
+- 🌱 I’m currently learning Computer Network. 
 - 📫 Mail: wangzhenghao23@outlook.com
 - 😍 Instagram: wzhhaooo
 - 📖 Facebook: WZhHaooo
